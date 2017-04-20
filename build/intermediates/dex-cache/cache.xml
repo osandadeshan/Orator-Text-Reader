@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_a87853ae0e82058ac2b490c4319b21ccc96a5919\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_14e6520aa69e1f32b3b90178f9540ba374b7aef6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="15318d03ace92921d16e9a6483422b5d70da3147">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ffd47f846e3cc18d25f96ba8a89b3d89e070b779\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_c8d3c63d75cbdc04ac8e678698f9eed56f4c8ed9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_6e5c17597df5dcadeeef8cf94d9088f7c2b99304\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="200bec80bbde8bfc36853215ba615cf5f9f5be96">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_767a1fc06e377657c892ce920dcda64a5a461623\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Osanda\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_90f5f52cf8d8d241004d3085de8ad60ba8682cd6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc4"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Osanda\AndroidStudioProjects\Orator (Text Reader)\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_d1fba6f745d4ee3c97bccd666283c0e342a50e12\classes.dex" />
+    </item>
+
+</items>

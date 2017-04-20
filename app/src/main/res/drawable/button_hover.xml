@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" shape="rectangle">
+<!--this is to give gradient effect -->
+
+
+<solid   android:angle="270"
+                android:background="@drawable/button"
+               />
+<!-- this is make corners of button rounded -->
+<corners    android:topLeftRadius="70dip"
+               android:bottomRightRadius="70dip"
+               android:topRightRadius="70dip"
+               android:bottomLeftRadius="70dip"/>
+ 
+</shape>
